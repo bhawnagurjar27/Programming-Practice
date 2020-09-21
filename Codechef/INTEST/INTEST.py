@@ -1,9 +1,10 @@
+num_testcase, divisor = map(int, input().split())
 
-num_testcase, dividend = map(int, input().split())
-count_divisible_num = 0
+count_of_divisible_num = 0
 for i in range(num_testcase):
-    divisor = int(input())
-    if divisor % dividend == 0:
-        count_divisible_num += 1
+    dividend = int(input())
+    
+    if dividend % divisor == 0:
+        count_of_divisible_num += 1
 
-print(count_divisible_num)
+print(count_of_divisible_num)
