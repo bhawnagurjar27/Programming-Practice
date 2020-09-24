@@ -1,6 +1,6 @@
-number_of_testcase = int(input())
+number_of_testcases = int(input())
 
-for _ in range(number_of_testcase):
+for _ in range(number_of_testcases):
     N = int(input())
     reverse_of_number = 0
     

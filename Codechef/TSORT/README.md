@@ -3,7 +3,9 @@ https://www.codechef.com/problems/TSORT
 
 # Approach
 Initially, initialize the list of numbers.
+
 Step1: Then append every number into the list
+
 Step2: Then by using sort() function get the list of sorted numbers.
 
 

@@ -1,6 +1,6 @@
-number_of_testcase = int(input())
+number_of_testcases = int(input())
 
-for i in range(number_of_testcase):
+for i in range(number_of_testcases):
     N = int(input())                    
     
     count_of_digit_four = 0
