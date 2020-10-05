@@ -10,4 +10,6 @@ Step 1: Under the range of number of people, check whether the money which peopl
         
           And append '1' into answer as string
 
-Step 2:  If above statement is FALSE, then append '0' into the answer as string on the particular ith index where the above condition is false.
+          If above statement is FALSE, then append '0' into the answer as string on the particular ith index.
+
+Step 2: Print answer as output
