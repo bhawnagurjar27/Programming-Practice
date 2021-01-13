@@ -1,1 +1,1 @@
-Maximum and minimum of an array 
+Question: To find Maximum and minimum element of an array 
